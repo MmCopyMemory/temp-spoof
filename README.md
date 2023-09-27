@@ -7,3 +7,8 @@ tested on
 - valorant
 - fivem
 - project nova
+<br>
+Direct download<br>Mapper<br>
+https://github.com/dvlq/temp-spoof/raw/main/map.exe
+<br>Driver<br>
+https://github.com/dvlq/temp-spoof/raw/main/temp.sys
